@@ -2,9 +2,10 @@ Simone's read-me
 
 To all reading this.  I am sorry that this may be a bit crude--I mean this is why I am taking this class.  The last time I programmed prior to this was prior to obama's inaguration... But I digress.
 
+Also, please ignore my typo while getting this into git... somehow I decided to combine version and revision and created a new word.  But at least it is hsere.  
+
 to run the program basically, do it as you would any other python program:
-python ./src/application_project.py ./input/percentile.txt ./input/itcont.txt .\
-/output/repeat_donors.txt
+python ./src/application_project.py ./input/percentile.txt ./input/itcont.txt ./output/repeat_donors.txt
 This is in the run.sh shell.
 
 My logic was as so:
