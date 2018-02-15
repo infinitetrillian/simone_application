@@ -1,8 +1,8 @@
 Simone's read-me
 
-To all reading this.  I am sorry that this may be a bit crude--I mean this is why I am taking this class.  The last time I programmed prior to this was prior to obama's inaguration... But I digress.
+To all reading this.  I am sorry that this may be a bit crude--I mean this is why I am taking this class.  I really do want to get into this field as doctors need to be making the next generation of medical programs to ease the burden on the doctors using the programs, as honestly, you really have to be a medical provider to know exactly what doctors want.  The workload is huge, and adding additional time, clicks, and difficulty on these providers is causing a lot of pain. This is part of what is causing the burnout epidemic.  I encourage you to open up a medical journal and see all the papers on physician burnout.  I feel as if we won't be able to solve this problem until we attack a big cause--unhelpful technology.  However, I know my code might not be the best, but the last time I programmed prior to this was prior to obama's inaguration...and GIT didn't exist back then... But I digress.
 
-Also, please ignore my typo while getting this into git... somehow I decided to combine version and revision and created a new word.  But at least it is hsere.  
+Also, please ignore my typo while getting this into git... somehow I decided to combine version and revision and created a new word... ok, really it was a typo as I type too quickly.      
 
 to run the program basically, do it as you would any other python program:
 python ./src/application_project.py ./input/percentile.txt ./input/itcont.txt ./output/repeat_donors.txt
