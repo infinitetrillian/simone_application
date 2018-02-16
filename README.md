@@ -4,7 +4,7 @@ To all reading this.  I am sorry that this may be a bit crude--I mean this is wh
 
 Also, please ignore my typo while getting this into git... somehow I decided to combine version and revision and created a new word... ok, really it was a typo as I type too quickly.      
 
-to run the program basically, do it as you would any other python program:
+to run the program type this into any command line:
 python ./src/application_project.py ./input/percentile.txt ./input/itcont.txt ./output/repeat_donors.txt
 This is in the run.sh shell.
 
